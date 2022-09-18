@@ -26,6 +26,7 @@ For practising Spring Framework and Spring Boot, the user module will be built w
 - Mysql
 - Redis
 - kafka
+- elastic search
 
 ## Frontend
 
